@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.tabSize": 2,
+	"editor.fontSize": 16,
+	"telemetry.enableTelemetry": false,
+	"editor.wrappingColumn": 0,
+	"eslint.options": {
+		// "configFile": "/.eslintrc.yml"
+	},
+	"javascript.validate.enable": false,
+	"git.autofetch": false,
+	"terminal.integrated.shell.windows": "powershell.exe"
+}
