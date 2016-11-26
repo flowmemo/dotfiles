@@ -3,7 +3,6 @@
   // Editor
   "editor.tabSize": 2,
   "editor.fontSize": 14,
-  "editor.wrappingColumn": 80,
   "telemetry.enableTelemetry": false,
 
   // Git
